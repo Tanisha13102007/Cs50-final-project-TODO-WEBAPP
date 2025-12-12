@@ -139,13 +139,8 @@ I learned every single concept step by step
 It reflects my hard work, honesty, and growth
 
 
-This project marks the beginning of my computer science journey, and completing it for CS50 is an achievement I am proud of
- 
-screenshot
+This project marks the beginning of my computer science journey, and completing it for CS50 is an achievement I am proud 
 
- ![alt text](image.png)
-
- ![alt text](image-1.png)
 
 
 
