@@ -4,7 +4,7 @@ By Tanisha Dangwal
 
 📹 Video Demo:
 
-<>
+<https://youtu.be/EB19vPP9Z34>
 
 
 ---
@@ -140,6 +140,7 @@ It reflects my hard work, honesty, and growth
 
 
 This project marks the beginning of my computer science journey, and completing it for CS50 is an achievement I am proud 
+
 
 
 
